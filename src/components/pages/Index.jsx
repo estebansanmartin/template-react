@@ -9,7 +9,7 @@ export default class Home extends Component {
                     <h3 className="subtitle-container">WEB DESIGNER</h3>
                 </div>
                 <div className="container-social">
-                <h5 className="title-social">CONTATTAMI</h5>
+                <h5 className="title-social">CONTACT ME</h5>
                     <div className="container-items">
                         <a className="link-home" href="http://estebansanmartin.net" target="_blank"><i className="fa fa-code"></i></a>
                         <a className="link-home" href="https://twitter.com/resourcesantips" target="_blank"><i className="fa fa-twitter"></i></a>

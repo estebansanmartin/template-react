@@ -14,7 +14,7 @@ export default class Contact extends Component {
             <div className="box-form">
                 <form onSubmit="" className="pure-form">
                     <fieldset class="pure-group">
-                        <input type="text" className="pure-input-1" placeholder="Nome" required />
+                        <input type="text" className="pure-input-1" placeholder="Name" required />
                         <input type="email" className="pure-input-1" placeholder="Email" required />
                     </fieldset>
                     <fieldset class="pure-group">

@@ -9,7 +9,7 @@ export default class Portfolio extends Component {
                 <h1 className="title">PORT<br/>
                 FOLIO
                 </h1>
-                    <p href="http://estebansanmartin.net/blog" target="_blank" className="link-portfolio">Blog personale sviluppato con Wordpress.</p>
+                    <p href="http://estebansanmartin.net/blog" target="_blank" className="link-portfolio">Blog developed with Wordpress.</p>
                     <div className="link-wrapper">
                         <a className="link hover-3" href="http://estebansanmartin.net/blog" target="_blank">LINK</a>
                     </div>
@@ -19,7 +19,7 @@ export default class Portfolio extends Component {
                     src={require('../assets/blog.png')}/>
                 </ImageContent>
 
-                <p href="#" target="_blank" className="link-portfolio">Sito web sviluppato con Bootstrap.</p>
+                <p href="#" target="_blank" className="link-portfolio">Website developed with Bootstrap.</p>
                     <div className="link-wrapper">
                         <a className="link hover-3" href="http://estebansanmartin.net/es/restaurant/" target="_blank">LINK</a>
                     </div>
@@ -29,7 +29,7 @@ export default class Portfolio extends Component {
                     src={require('../assets/restaurant.png')}/>
                 </ImageContent>
 
-                <p href="#" target="_blank" className="link-portfolio">Sito web aziendale sviluppato con Bootstrap.</p>
+                <p href="#" target="_blank" className="link-portfolio">Website developed with Bootstrap.</p>
                     <div className="link-wrapper">
                         <a className="link hover-3" href="http://estebansanmartin.net/es/edilizia/" target="_blank">LINK</a>
                     </div>
@@ -39,7 +39,7 @@ export default class Portfolio extends Component {
                     src={require('../assets/edile.png')}/>
                 </ImageContent>
 
-                <p href="#" target="_blank" className="link-portfolio">Sito web sviluppato con Foundation.</p>
+                <p href="#" target="_blank" className="link-portfolio">Website developed with Foundation.</p>
                     <div className="link-wrapper">
                         <a className="link hover-3" href="http://estebansanmartin.net/es/" target="_blank">LINK</a>
                     </div>

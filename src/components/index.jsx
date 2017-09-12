@@ -35,7 +35,7 @@ handleOnClick(e) {
       <div>
           <header className="custom-menu-wrapper">
               <div className="pure-menu custom-menu custom-menu-top">
-              <a href="./" className="pure-menu-heading custom-menu-brand">
+              <a href="#" className="pure-menu-heading custom-menu-brand">
               <img className="logo" src={Logo} alt="Logo" href="#"/>
               </a>
               <a href="#" className="custom-menu-toggle" id="toggle" onClick={this.handleOnClick}><s className="bar"></s><s className="bar"></s></a>
